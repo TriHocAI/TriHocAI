@@ -42,3 +42,6 @@ plt.plot(X[:,0], model.predict(X), color = 'red')
 plt.xlabel('Area(fts square)')
 plt.ylabel('price')
 plt.show()
+
+
+#Link basebase (https://drive.google.com/file/d/158jEjhTZc-MWY4YY04eylv5tCGrtHkWf/view?usp=sharing)
